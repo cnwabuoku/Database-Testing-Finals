@@ -27,10 +27,12 @@ DB_PASSWORD=your-db-password
 
 DB_DATABASE=your-db-name
 
+
 5. Start the development server: npm run dev  or   npm start
 
 
 The app should now be running on http://localhost:3000
+
 
 API Endpoints
 
@@ -46,6 +48,7 @@ PUT /api/customers/:id - Update customer by ID
 
 DELETE /api/customers/:id - Delete customer by ID
 
+
 Shipments
 
 GET /api/shipments - Get all shipments
@@ -57,6 +60,7 @@ GET /api/shipments/:id - Get shipment by ID
 PUT /api/shipments/:id - Update shipment by ID
 
 DELETE /api/shipments/:id - Delete shipment by ID
+
 
 Trucks
 
