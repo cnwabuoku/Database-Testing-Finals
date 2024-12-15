@@ -70,4 +70,4 @@ PUT /api/trucks/:id - Update truck by ID
 
 DELETE /api/trucks/:id - Delete truck by ID
 
-... and similar endpoints for Trips, Repairs, and Mechanics.
+... and similar endpoints for Employees, Trips, Repairs, and Mechanics.
